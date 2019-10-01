@@ -13,6 +13,12 @@
 	min-height: calc(100vh - 60px);
 }
 
+.container {
+	/*background-color: aquamarine;*/
+    margin-top: 20px;
+    color: brown;
+    
+}
 img {
 	max-width: 100%;
 }
